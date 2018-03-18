@@ -10,7 +10,7 @@ This repository contains all of the necessary files for the PCC Air Engine proje
 * Standard_Bushing: CAD
 * Piston_Bushing: CAD
 * Piston: CAD + DWG + PDF
-* Piston_Block (Cylinder): CAD + CAM + DWG + CNC
+* Piston_Block (Cylinder): CAD + CAM + DWG + PDF + CNC
 * Flywheel: CAD + DWG + PDF
 * Crankshaft: CAD + DWG + PDF
 * Air_Engine_Full: CAD + ASM
